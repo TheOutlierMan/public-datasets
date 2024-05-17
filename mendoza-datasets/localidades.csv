@@ -1,0 +1,306 @@
+FID,the_geom,ID,LOCALIDAD,DISTRITO,DEPTO,C_POSTAL,DIST_MZA,POB_1980,POB_1991,POB_2001,POB_2010
+localidades.1,POINT (-69.8295507706639 -36.660640567181126),33,Ranquil Norte,Río Barrancas,Malargüe,5611,614,,,,0
+localidades.2,POINT (-69.80614705625842 -35.866364837218036),29,Bardas Blancas,Río Grande,Malargüe,5611,502,,,63,67
+localidades.3,POINT (-70.20327308716953 -35.14227308861101),107,Valle Hermoso,Ciudad de Malargüe,Malargüe,5612,472,,,,0
+localidades.4,POINT (-69.04187287074802 -33.775874437115405),95,Ciudad de San Carlos,Ciudad de San Carlos,San Carlos,5569,104,1826,2712,3262,3458
+localidades.5,POINT (-68.61661750449333 -33.18525626037075),164,Medrano (R),Medrano (R),Rivadavia,5585,49,,1526,1748,1853
+localidades.6,POINT (-68.46247489213654 -33.19399584528239),109,Ciudad de Rivadavia,Ciudad de Rivadavia,Rivadavia,5577,60,14901,21770,26792,28400
+localidades.7,POINT (-68.31420957132002 -33.281318921153805),88,La Central,La Central,Rivadavia,5579,80,272,755,823,872
+localidades.8,POINT (-68.7900058211223 -32.97738656579569),110,Ciudad de Maipú,Ciudad de Maipú,Maipú,5515,15,,71603,89433,94799
+localidades.9,POINT (-68.66621844798205 -32.58916371893665),111,Jocolí (L),Jocolí,Lavalle,5543,42,,,549,582
+localidades.10,POINT (-69.34656011351548 -32.59239282217625),80,Uspallata,Uspallata,Las Heras,5545,105,1294,2932,3437,3643
+localidades.11,POINT (-68.48305801934997 -33.1024564925272),47,La Colonia (J),La Colonia,Junín,5570,43,4148,6757,9282,9839
+localidades.12,POINT (-68.64944545743535 -33.00744601108606),101,Fray Luis Beltrán,Fray Luis Beltrán,Maipú,5531,24,1160,2564,4210,4463
+localidades.13,POINT (-69.15463134965744 -33.30126142504398),114,San José (T),San José (T),Tupungato,5561,63,220,896,1487,1576
+localidades.14,POINT (-69.13867212167888 -33.34912606101051),1,Villa Bastías,Villa Bastías,Tupungato,5561,70,635,,,0
+localidades.15,POINT (-69.17380074805976 -33.34607796955301),37,El Peral,El Peral,Tupungato,5561,69,,,366,388
+localidades.16,POINT (-69.10202975991552 -33.37045292115643),38,La Arboleda,La Arboleda,Tupungato,5561,73,,,198,210
+localidades.17,POINT (-69.07604435082669 -33.44164676198042),162,El Zampal (T),El Zampal (T),Tupungato,5561,69,,,,0
+localidades.18,POINT (-69.14900044797136 -33.45755174251615),36,Cordón del Plata,Cordón del Plata,Tupungato,5561,80,,509,1305,1383
+localidades.19,POINT (-69.1750748331648 -33.59474670387602),3,Los Sauces,Los Sauces,Tunuyán,5563,99,252,289,449,476
+localidades.20,POINT (-69.1088651239334 -33.608128845052185),91,Colonia Las Rosas,Colonia las Rosas,Tunuyán,5565,92,658,760,945,1002
+localidades.21,POINT (-67.90994133727307 -33.351034421697015),43,La Dormida,La Dormida,Santa Rosa,5592,103,1302,1953,2075,2200
+localidades.22,POINT (-68.32431487617296 -32.74957223440024),67,Nueva California,Nueva California,San Martín,5535,53,237,267,238,252
+localidades.23,POINT (-68.38746520272215 -32.9005359393505),68,Tres Porteñas,Tres Porteñas,San Martín,5589,48,854,1560,2160,2290
+localidades.24,POINT (-68.46321924321053 -32.98337674081767),115,Chapanay,Chapanay,San Martín,5589,42,,686,1242,1317
+localidades.25,POINT (-68.47361191477007 -33.085336470043885),77,Ciudad de San Martín,Ciudad de San Martín,San Martín,5570,43,31697,64773,49491,52460
+localidades.26,POINT (-68.33483276181848 -34.615838740056944),117,Ciudad de San Rafael,Ciudad de San Rafael,San Rafael,5600,232,72759,94651,106386,112769
+localidades.27,POINT (-67.87579781129742 -34.593292909349444),106,Monte Comán,Monte Comán,San Rafael,5609,228,2577,3915,3712,3935
+localidades.28,POINT (-67.99464271284593 -34.6747528399462),118,Colonia La Llave Sur,La Llave,San Rafael,5600,245,,,,0
+localidades.29,POINT (-68.13386175118819 -34.627213483070555),119,Alto del Algarrobal,Cuadro Nacional,San Rafael,5607,248,,,,0
+localidades.30,POINT (-68.54461491155621 -34.5851496362592),99,Colonia 25 de Mayo,25 de Mayo,San Rafael,5615,227,1354,1440,1585,1680
+localidades.31,POINT (-68.27482907410398 -34.61739901967654),20,Cuadro Nacional,Cuadro Nacional,San Rafael,5607,237,,,,0
+localidades.32,POINT (-68.13176186238795 -34.679260399720015),13,Goudge,Goudge,San Rafael,5603,253,1163,1479,1818,1927
+localidades.33,POINT (-67.86633998442635 -35.010371696730736),120,Soitue,Jaime Prats,San Rafael,5632,294,,,,0
+localidades.34,POINT (-67.75939023078168 -34.8404957263785),7,Real del Padre,Real del Padre,San Rafael,5624,258,2146,2451,3345,3546
+localidades.35,POINT (-68.82371856758033 -32.89264817336522),2,San José (G),San José (G),Guaymallén,5519,3,,,,0
+localidades.36,POINT (-68.74485338160414 -32.92240413199064),122,Rodeo de la Cruz,Rodeo de la Cruz,Guaymallén,5525,11,,,,1200
+localidades.37,POINT (-68.69562478224205 -32.90185985334916),123,Los Corralitos,Los Corralitos,Guaymallén,5527,16,,701,1044,1107
+localidades.38,POINT (-68.66809102424013 -32.92539910928493),135,La Primavera (G),La Primavera (G),Guaymallén,5527,20,,522,639,677
+localidades.39,POINT (-68.74335257671207 -32.865236542950555),124,El Sauce,El Sauce,Guaymallén,5533,10,,,,0
+localidades.40,POINT (-68.8546069865453 -32.94004528774206),125,Ciudad de Godoy Cruz,Ciudad de Godoy Cruz,Godoy Cruz,5501,3,,179553,182563,193517
+localidades.41,POINT (-69.03481339182552 -34.01769182413335),126,Paso de las Carretas,Pareditas,San Carlos,5569,132,,,,0
+localidades.42,POINT (-68.6761018851417 -35.03127851285618),10,El Nihuil,El Nihuil,San Rafael,5605,285,1457,1495,847,898
+localidades.43,POINT (-68.40679442091242 -33.048160408261495),19,Chivilcoy,Chivilcoy,San Martín,5571,51,316,311,425,451
+localidades.44,POINT (-68.4605318771867 -34.65521628971748),21,Cuadro Benegas,Cuadro Benegas,San Rafael,5603,229,324,426,1122,1189
+localidades.45,POINT (-70.14163342539062 -35.7946303498373),28,Las loicas,Río Grande,Malargüe,5613,545,,,,0
+localidades.46,POINT (-69.76788092880915 -36.104163557636426),30,El Manzano (M),Río Grande,Malargüe,5611,531,,,,0
+localidades.47,POINT (-69.86618438883202 -36.27268095015897),31,El Alambrado,Río Grande,Malargüe,5611,559,,,,0
+localidades.48,POINT (-69.03559320047856 -34.58202235457935),32,Agua del Toro (SR),Agua del Toro,San Rafael,5621,196,,,,0
+localidades.49,POINT (-69.0113216642931 -33.54599989133155),42,El Zampalito,El Zampalito,Tupungato,5560,78,,,,0
+localidades.50,POINT (-68.17988772544486 -33.16212679240217),45,El Marcado,Ciudad de Santa Rosa,Santa Rosa,5594,77,,,,0
+localidades.51,POINT (-68.67295053355701 -32.70849881248614),57,Jocolí Viejo,Jocolí Viejo,Lavalle,5533,32,141,167,402,426
+localidades.52,POINT (-69.25185664551445 -32.97075615986881),61,Potrerillos,Potrerillos,Luján,5549,45,744,38,250,210
+localidades.53,POINT (-68.56504486968903 -33.2154733349765),66,Reducción de Abajo,Reducción,Rivadavia,5579,56,,312,439,465
+localidades.54,POINT (-68.47190810500818 -33.0104585932234),69,Chimbas,Las Chimbas,San Martín,5584,42,579,,,0
+localidades.55,POINT (-68.34939799113438 -33.170570213708714),75,Alto Verde (J),Alto Verde (J),Junín,5582,58,870,,,0
+localidades.56,POINT (-68.41195113659462 -33.19885125366709),76,Santa María de Oro,Santa Maria de Oro,Rivadavia,5579,59,328,616,741,785
+localidades.57,POINT (-69.01566294090074 -33.58100033337222),90,Ciudad de Tunuyán,Ciudad de Tunuyán,Tunuyán,5560,82,14719,20260,25170,26680
+localidades.58,POINT (-68.249309824578 -34.83660885513297),100,Las Malvinas,Las Malvinas,San Rafael,5605,266,230,192,232,246
+localidades.59,POINT (-67.68990057890647 -34.97826972513626),104,Ciudad de General Alvear,Ciudad de Gral Alvear,General Alvear,5620,275,20783,23699,26342,27923
+localidades.60,POINT (-69.3832225988032 -33.603051509699704),127,El Manzano (T),Los Chayanes,Tunuyán,5560,116,,6,34,36
+localidades.61,POINT (-70.07775580957664 -35.145003676142025),18,Valle Las Leñas,Ciudad de Malargüe,Malargüe,5612,452,,261,75,80
+localidades.62,POINT (-69.58482886231688 -35.47382043541408),128,Ciudad de Malargüe,Ciudad de Malargüe,Malargüe,5613,436,9549,15344,18077,19162
+localidades.63,POINT (-69.81818257763437 -35.49565649555808),129,Castillos de Pincheira,Ciudad de Malargüe,Malargüe,5613,464,,,,15
+localidades.64,POINT (-69.87123823255861 -35.16040731734258),130,Laguna Niña Encantada,Ciudad de Malargüe,Malargüe,5611,438,,,,6
+localidades.65,POINT (-69.11987310789043 -33.73433232913343),97,La Consulta,La Consulta,San Carlos,5567,104,3172,6069,7354,7795
+localidades.66,POINT (-69.06533476864486 -33.78071060926778),94,Eugenio Bustos,Eugenio Bustos,San Carlos,5569,104,1408,3484,3973,4211
+localidades.67,POINT (-69.06940160583895 -33.89074398287243),4,Chilecito,Chilecito,San Carlos,5569,116,247,554,828,878
+localidades.68,POINT (-68.57314755110552 -33.18672594154859),218,Los Arboles (R),Los Arboles,Rivadavia,5575,52,,103,391,414
+localidades.69,POINT (-68.68659365266103 -32.99342282390482),132,Rodeo del Medio,Rodeo del Medio,Maipú,5529,19,,6268,9120,9667
+localidades.70,POINT (-68.87868913925728 -33.036286896881805),133,Ciudad de Luján,Ciudad de Luján,Luján,5507,18,,54210,73058,77441
+localidades.71,POINT (-69.11840415205242 -33.01605443251241),59,Cacheuta,Potrerillos,Luján,5549,34,104,70,76,81
+localidades.72,POINT (-68.88773855995849 -33.20300932566449),58,Ugarteche,Ugarteche,Luján,5509,36,,1194,3660,3880
+localidades.73,POINT (-68.75665658698308 -33.32117905762769),60,El Carrizal,El Carrizal,Luján,5509,57,,176,319,338
+localidades.74,POINT (-68.59575310721685 -32.72243448079774),82,Villa Tulumaya,Tulumaya,Lavalle,5533,33,3307,5584,7005,7425
+localidades.75,POINT (-68.39739783049855 -32.75835084207689),56,Costa de Araujo,Costa de Araujo,Lavalle,5535,46,25586,1871,2629,2787
+localidades.76,POINT (-68.31951497253482 -32.69956929411723),83,Gustavo André,Ing. Gustavo André,Lavalle,5535,60,135,121,324,343
+localidades.77,POINT (-69.75227254858318 -32.851750873120224),79,Punta de Vacas,Las Cuevas,Las Heras,5553,162,209,135,47,51
+localidades.78,POINT (-68.61772610610288 -33.17772554517448),53,Medrano (J),Medrano (J),Junín,5585,48,1264,518,811,860
+localidades.79,POINT (-68.59644739345826 -33.12451909275966),51,Rodriguez Peña,Rodriguez Peña,Junín,5585,42,157,181,351,372
+localidades.80,POINT (-68.57587142447204 -33.098713469948684),48,Los Barriales,Los Barriales,Junín,5585,38,1205,2194,3872,4104
+localidades.81,POINT (-68.37530481944323 -33.205122308035705),50,Phillips,Phillips,Junín,5579,62,297,315,690,731
+localidades.82,POINT (-68.58775574957428 -33.03143988522357),87,San Roque,San Roque,Maipú,5587,30,1331,2065,3427,3633
+localidades.83,POINT (-69.05986088773885 -33.632187228245314),134,La Primavera (T),La Primavera (T),Tunuyán,5565,91,,,,650
+localidades.84,POINT (-69.17688947261735 -33.703226029862506),93,Campo Los Andes,Campo los Andes,Tunuyán,5565,109,1198,878,530,562
+localidades.85,POINT (-69.25558132365607 -33.512078988126675),163,Los Arboles (T),Los Arboles,Tunuyán,5563,105,,,,0
+localidades.86,POINT (-68.14990271979543 -33.254958108491316),103,Ciudad de Santa Rosa,Ciudad de Santa Rosa,Santa Rosa,5596,78,1136,1526,1929,2045
+localidades.87,POINT (-68.43504611178744 -32.99254712068561),136,Alto Salvador,Alto Salvador,San Martín,5571,43,,,237,251
+localidades.88,POINT (-68.38630436693093 -33.01456275584173),24,Montecaseros,Montecaseros,San Martín,5571,53,,735,1017,1078
+localidades.89,POINT (-68.56184502273587 -33.05404901052727),102,Palmira,Palmira,San Martín,5584,32,13504,,20889,22142
+localidades.90,POINT (-67.92362140875376 -34.83262802432878),9,Villa Atuel,Villa Atuel,San Rafael,5622,272,2801,2748,3164,3354
+localidades.91,POINT (-68.37101397861694 -34.516093545429584),137,Colonia Iaccarini,Las Paredes,San Rafael,5615,223,,,,0
+localidades.92,POINT (-68.28315132239439 -34.532569509563174),138,La Tombina,El Cerrito,San Rafael,5600,233,,,,0
+localidades.93,POINT (-68.18521534785121 -34.53609568428487),139,Colonia Tabanera,Cuadro Nacional,San Rafael,5607,241,,,,0
+localidades.94,POINT (-67.9883606090646 -34.56789696334513),140,La Llave Vieja,La Llave,San Rafael,5603,228,,,,0
+localidades.95,POINT (-68.24748211912055 -34.65440801386158),142,Vuelta de Rodrigo,Cuadro Nacional,San Rafael,5607,243,,,,0
+localidades.96,POINT (-68.04129527965985 -34.560068342794175),143,Colonia Elena,Cuadro Nacional,San Rafael,5603,230,,,,0
+localidades.97,POINT (-67.9265839449378 -34.618201995822815),144,Colonia Colomer,Monte Comán,San Rafael,5603,234,,,,0
+localidades.98,POINT (-68.7286940628977 -32.93372215499077),145,Kilómetro 11,Kilómetro 11,Guaymallén,5525,13,,,,650
+localidades.99,POINT (-68.70895098998902 -32.84938879658847),146,Colonia Segovia,Colonia Segovia,Guaymallén,5525,15,,1136,3229,3423
+localidades.100,POINT (-69.84262119714913 -32.84216180646199),72,Los Penitentes,Las Cuevas,Las Heras,5553,173,,7,16,17
+localidades.101,POINT (-70.05186398004173 -32.813887410068155),71,Las Cuevas,Las Cuevas,Las Heras,5557,191,497,56,7,7
+localidades.102,POINT (-68.00599584307488 -33.86243237348072),147,Comandante Salas,Zona Desertica,Santa Rosa,5594,140,,,,0
+localidades.103,POINT (-68.99471008926164 -33.64814009894038),148,Capiz,Ciudad de San Carlos,San Carlos,5560,90,,,,0
+localidades.104,POINT (-69.87029988994904 -35.16619853759076),149,Los Molles,Ciudad de Malargüe,Malargüe,5611,442,,,,0
+localidades.105,POINT (-68.3041841342293 -36.15553022469024),17,Agua Escondida,Agua Escondida,Malargüe,5621,437,,198,116,123
+localidades.106,POINT (-69.66099319958836 -36.52227064326139),150,El Zampal (M),Río Barrancas,Malargüe,5613,585,,,,0
+localidades.107,POINT (-70.40118290067163 -35.98391533115731),151,Paso El Pehuenche,Río Grande,Malargüe,5613,574,,,,0
+localidades.108,POINT (-69.05725597363637 -33.835639992376656),70,Tres Esquinas,Ciudad de San Carlos,San Carlos,5569,112,,,,0
+localidades.109,POINT (-69.07756373105975 -33.94122408547064),96,Pareditas,Pareditas,San Carlos,5569,122,306,691,1254,1329
+localidades.110,POINT (-68.87914950760893 -32.9873841535843),154,Chacras de Coria,Chacras de Coria,Luján,5505,13,,,,3500
+localidades.111,POINT (-68.89070117391981 -33.075013903380345),86,Perdriel,Perdriel,Luján,5509,23,1023,4437,7181,7612
+localidades.112,POINT (-68.8891505341823 -33.119047628305374),85,Agrelo,Agrelo,Luján,5509,27,603,749,1880,1993
+localidades.113,POINT (-68.63747664792379 -32.67912420377106),81,Tres de Mayo,Tres de Mayo,Lavalle,5543,34,252,464,614,651
+localidades.114,POINT (-67.55368169867235 -33.46145561795393),54,Ciudad de La Paz,La Paz,La Paz,5590,138,4613,5575,7059,7483
+localidades.115,POINT (-68.41578726377108 -33.13216945595855),52,Algarrobo Grande,Algarrobo Grande,Junín,5582,50,,,,0
+localidades.116,POINT (-68.48451102280157 -33.14669038632064),155,Ciudad de Junín,Ciudad de Junín,Junín,5573,49,3227,4495,6084,6449
+localidades.117,POINT (-69.14591346557042 -33.36544500735797),89,Ciudad de Tupungato,Villa de Tupungato,Tupungato,5561,72,3460,8163,11687,12388
+localidades.118,POINT (-68.98794670176467 -33.49574057466068),40,Zapata,Zapata,Tupungato,5560,72,,,,0
+localidades.119,POINT (-69.17663335281044 -33.56463415929618),34,Villa Seca,Villa Seca,Tunuyán,5563,95,,,237,251
+localidades.120,POINT (-69.15447929906954 -33.64882426376797),92,Vista Flores,Vista Flores,Tunuyán,5565,98,1488,2514,3482,3691
+localidades.121,POINT (-68.04612190580124 -33.303278516265856),98,Las Catitas,Las Catitas,Santa Rosa,5594,90,1680,2714,3060,3244
+localidades.122,POINT (-68.41491911980619 -33.061674153776046),156,Buen Orden,Buen Orden,San Martín,5570,50,,,,0
+localidades.123,POINT (-68.40987987613188 -33.12329130721484),49,Ingeniero Giagnoni,Alto Verde (S),San Martín,5582,51,21,466,587,622
+localidades.124,POINT (-67.81695433074199 -34.91542504909187),8,Jaime Prats,Jaime Prats,San Rafael,5623,286,287,314,388,411
+localidades.125,POINT (-68.40819594956241 -34.509718431361826),157,Colonia El Usillal,Las Paredes,San Rafael,5601,217,,,,0
+localidades.126,POINT (-67.9785549337282 -34.64891418744929),158,Colonia Gelman,La Llave,San Rafael,5603,240,,,,0
+localidades.127,POINT (-68.45610639274608 -34.58413805012099),6,Capitán Montoya,Las Paredes,San Rafael,5601,219,241,323,360,382
+localidades.128,POINT (-68.84147095335952 -32.89680279492925),159,Ciudad Capital,Ciudad Capital,Capital,5500,0,,121620,110993,117653
+localidades.129,POINT (-68.22992388407401 -34.72661417475938),11,Salto de Las Rosas,Cañada Seca,San Rafael,5603,253,658,858,1059,1123
+localidades.130,POINT (-67.97797360542553 -34.63991914803693),12,Rodolfo Iselín,La Llave,San Rafael,5603,239,469,,,950
+localidades.131,POINT (-68.36140227485625 -34.672698002080125),14,Rama Caída,Rama Caída,San Rafael,5603,235,807,903,901,955
+localidades.132,POINT (-67.64977708619901 -35.15038090476895),15,Carmensa,San Pedro del Atuel,General Alvear,5621,296,788,926,923,978
+localidades.133,POINT (-67.94824458662646 -34.617675100281694),22,La Llave Nueva,La Llave,San Rafael,5600,235,,441,462,490
+localidades.134,POINT (-67.99994019840581 -34.800439964533204),23,Negro Quemado,Villa Atuel,San Rafael,5623,264,,,,0
+localidades.135,POINT (-67.65291261281664 -34.99930554864686),25,Alvear Oeste,Ciudad de Gral Alvear,General Alvear,5632,280,,,,900
+localidades.136,POINT (-67.5673541189394 -35.13420944131664),27,Colonia Rusa,San Pedro del Atuel,General Alvear,5603,304,,,,0
+localidades.137,POINT (-68.92520503750379 -33.328326449792165),39,Anchoris,Anchoris,Tupungato,5509,53,,,,0
+localidades.138,POINT (-67.95690568519554 -34.04881986388133),44,Ñacuñán,Zona Desertica,Santa Rosa,5595,166,,,,250
+localidades.139,POINT (-67.59656793558352 -33.464691112844704),55,Villa Antigua,La Paz,La Paz,5590,131,306,205,281,298
+localidades.140,POINT (-68.41632923931375 -33.17391029850945),222,Mundo Nuevo (J),Mundo Nuevo (J),Junín,5579,56,,,,0
+localidades.141,POINT (-68.31440367467727 -33.319668287045616),64,El Mirador,El Mirador,Rivadavia,5579,85,378,732,775,822
+localidades.142,POINT (-68.49635653092703 -33.23716543353892),65,La Libertad,La Libertad,Rivadavia,5579,67,,686,629,667
+localidades.143,POINT (-69.91544112789568 -32.824672948329976),73,Puente del Inca,Las Cuevas,Las Heras,5555,178,126,128,132,140
+localidades.144,POINT (-69.0004140329142 -33.03709085829338),74,Blanco Encalada,El Challao,Las Heras,5549,25,85,448,1277,1354
+localidades.145,POINT (-68.33839107553104 -33.15599047412123),5,Alto Verde (S),Alto Verde (S),San Martín,5582,58,,1154,1440,1526
+localidades.146,POINT (-69.65177692157032 -32.79390439026303),78,Polvareda,Uspallata,Las Heras,5551,150,233,174,185,196
+localidades.147,POINT (-67.50974049402859 -35.002158196627775),105,Bowen,Bowen,General Alvear,5634,293,3331,3974,4562,4836
+localidades.148,POINT (-69.58190591769548 -35.080961513459044),161,El Sosneado,Cuadro Benegas,San Rafael,5611,388,,,91,96
+localidades.149,POINT (-67.63963000655771 -35.03915971199216),26,La Marzolina,Ciudad de Gral Alvear,General Alvear,5632,285,,,,0
+localidades.150,POINT (-69.84727672412905 -36.80475898603718),197,Barrancas (Mal),Río Barrancas,Malargüe,5613,637,,,167,177
+localidades.151,POINT (-69.67599027470744 -37.11038497342483),166,Malal Ranquil,Río Barrancas,Malargüe,5613,678,,,,0
+localidades.152,POINT (-69.14032518037453 -37.18950427574191),167,Pata Mora,Río Barrancas,Malargüe,5613,740,,,,0
+localidades.153,POINT (-68.45936797740347 -36.98935522442447),168,Los Ramblones,Agua Escondida,Malargüe,5611,574,,,,0
+localidades.154,POINT (-70.11177434867024 -35.89405854000555),169,Minacar,Río Grande,Malargüe,5613,539,,,,0
+localidades.155,POINT (-68.82413760838749 -36.77118800802971),170,Matancilla,Agua Escondida,Malargüe,5613,534,,,,0
+localidades.156,POINT (-68.36653886862841 -34.74305163082866),171,Ingeniero Ballofet,Rama Caída,San Rafael,5603,244,,,,0
+localidades.157,POINT (-68.45907325137377 -34.62414924083796),172,Pedro Vargas,Cuadro Benegas,San Rafael,5603,225,,,,0
+localidades.158,POINT (-67.66933313694945 -34.62742003627371),174,Goico,Ciudad de Gral Alvear,General Alvear,5609,249,,,,0
+localidades.159,POINT (-68.03657142898405 -34.76437564460477),175,Villa Atuel Norte,Cañada Seca,San Rafael,5605,258,154,165,294,312
+localidades.160,POINT (-68.00881190199105 -34.63957007332259),176,La Llave,La Llave,San Rafael,5603,241,,,,250
+localidades.161,POINT (-68.2307701456786 -34.58288561651018),178,Resolana,Cuadro Nacional,San Rafael,5601,238,,,,0
+localidades.162,POINT (-68.07681142644957 -35.52710643469874),179,Punta de Agua,Punta de Agua,San Rafael,5621,352,,,247,262
+localidades.163,POINT (-68.51544908245022 -34.83094024697724),180,Valle Grande,El Nihuil,San Rafael,5600,262,,,,0
+localidades.164,POINT (-67.0582146667327 -35.05172946289176),181,Los Huarpes,Bowen,General Alvear,5636,330,,,,0
+localidades.165,POINT (-66.83113841032015 -35.10726819006487),182,La Mora,Bowen,General Alvear,5636,355,,,,0
+localidades.166,POINT (-66.51175697908165 -35.200485862460255),183,Canalejas,Bowen,General Alvear,5636,388,,,,0
+localidades.167,POINT (-67.33229960457571 -35.70763753587824),184,Cochicó,San Pedro del Atuel,General Alvear,5621,367,,,,0
+localidades.168,POINT (-67.48032833228065 -34.65164850996914),185,Gaspar Campos,Bowen,General Alvear,5609,265,,,,0
+localidades.169,POINT (-67.31263886401105 -34.67845266345079),186,Ovejeria,Bowen,General Alvear,5637,279,,,,0
+localidades.170,POINT (-67.05588147865087 -34.70427712692008),187,Corral de Lorca,Bowen,General Alvear,5637,305,,,,0
+localidades.171,POINT (-66.87584835475491 -34.72613388275855),188,Pampa del Tigre,Bowen,General Alvear,5637,321,,,,0
+localidades.172,POINT (-66.69080164350547 -34.73534543162791),189,Media Luna,Bowen,General Alvear,6279,339,,,,0
+localidades.173,POINT (-67.49771155284938 -34.93989200312353),190,La Escandinava,Bowen,General Alvear,5634,297,,,,0
+localidades.174,POINT (-66.74104868570242 -34.09771161281916),191,Las Horquetas,La Paz,La Paz,5590,294,,,,0
+localidades.175,POINT (-67.17935404347537 -33.398608819058815),192,Desaguadero,La Paz,La Paz,5598,175,,,559,593
+localidades.176,POINT (-67.41271854633216 -33.50412959700768),193,Pirquita,La Paz,La Paz,5590,152,,,,0
+localidades.177,POINT (-67.2548458553245 -33.55481398964261),194,Cadetes de Chile,La Paz,La Paz,5590,167,,,,0
+localidades.178,POINT (-67.09991855993533 -33.60717661041453),195,Maquinista Levet,La Paz,La Paz,5590,182,,,,0
+localidades.179,POINT (-67.2198906318172 -32.81723808033063),196,Arroyito,San Miguel,Lavalle,5537,158,,,,0
+localidades.180,POINT (-67.28695130068 -32.60524578816328),84,El Forzudo,San Miguel,Lavalle,5537,184,,,,0
+localidades.181,POINT (-67.39885529805105 -32.46956532111574),198,El Retamo,San Miguel,Lavalle,5537,199,,,,0
+localidades.182,POINT (-67.53498281382132 -32.31443510160781),199,San Miguel,San Miguel,Lavalle,5537,176,,,,0
+localidades.183,POINT (-68.19526571975274 -32.14679905123106),200,La Capilla,Laguna del Rosario,Lavalle,5535,135,,,,0
+localidades.184,POINT (-68.09525962329727 -32.411736719916355),201,El Cavadito,Asunción,Lavalle,5535,102,,,,0
+localidades.185,POINT (-68.21760271664016 -32.366567252061174),202,San José (L),Laguna del Rosario,Lavalle,5535,104,,,,0
+localidades.186,POINT (-68.27127034700767 -32.577714186649395),203,Asunción,Asunción,Lavalle,5535,78,,,,0
+localidades.187,POINT (-68.66864199119568 -32.80727926792479),204,Barrio La Pega,La Pega,Lavalle,5533,21,,,268,284
+localidades.188,POINT (-67.80595093504601 -32.56815070961366),205,El Retiro,San Miguel,Lavalle,5533,151,,,,0
+localidades.189,POINT (-69.01749582028376 -32.52869961321004),206,Villavicencio,Uspallata,Las Heras,5539,54,,,,120
+localidades.190,POINT (-69.27367008428216 -32.959814042627094),208,El Salto,Potrerillos,Luján,5549,53,,115,361,383
+localidades.191,POINT (-69.26705309084223 -33.0094202310488),209,Las Vegas,Potrerillos,Luján,5549,55,,140,225,239
+localidades.192,POINT (-69.29613874920948 -33.023476819290494),210,Valle del Sol,Potrerillos,Luján,5549,59,,,165,175
+localidades.193,POINT (-69.38383835369326 -32.97069358996648),211,Vallecitos,Potrerillos,Luján,5549,66,,,,0
+localidades.194,POINT (-68.97804939169674 -33.04407311068236),212,Las Compuertas,Las Compuertas,Luján,5549,23,,172,141,149
+localidades.195,POINT (-68.89892907270105 -33.01098446913898),213,Vistalba,Vistalba,Luján,5509,14,,,,2650
+localidades.196,POINT (-68.85583898380798 -33.009765278858424),214,Mayor Drummond,Mayor Drummond,Luján,5507,14,,,,1580
+localidades.197,POINT (-68.84796061306368 -32.97533390758094),215,Carrodilla,Carrodilla,Luján,5505,10,,,,2600
+localidades.198,POINT (-68.8577782296201 -32.965117176678405),216,La Puntilla,La Puntilla,Luján,5505,8,,,,3420
+localidades.199,POINT (-68.81618331193046 -32.88185907826327),217,Pedro Molina,Pedro Molina,Guaymallén,5519,3,,,,0
+localidades.200,POINT (-68.79612853098016 -32.88477850325122),235,Belgrano,Belgrano,Guaymallén,5519,5,,,,0
+localidades.201,POINT (-68.7849737240533 -32.87020397677398),240,Bermejo,Bermejo,Guaymallén,5533,6,,,,0
+localidades.202,POINT (-68.76767356379703 -32.89003978673002),226,Buena Nueva,Buena Nueva,Guaymallén,5523,7,,,,1800
+localidades.203,POINT (-68.81309455881686 -32.90958922590804),227,Las Cañas,Las Cañas,Guaymallén,5519,4,,,,0
+localidades.204,POINT (-68.79860609257302 -32.92313898835661),228,San Francisco del Monte,San Francisco del Monte,Guaymallén,5503,6,,,,0
+localidades.205,POINT (-68.8256852479283 -32.91039421461828),229,Dorrego,Dorrego,Guaymallén,5519,3,,,,0
+localidades.206,POINT (-68.7731776024925 -32.92584921650476),230,Jesús Nazareno,Jesús Nazareno,Guaymallén,5523,8,,,,920
+localidades.207,POINT (-68.7592210132472 -32.91205416740208),207,Capilla del Rosario,Capilla del Rosario,Guaymallén,5523,8,,,,500
+localidades.208,POINT (-68.70011935922682 -32.94261133130173),232,Kilómetro 8,Kilómetro 8,Guaymallén,5525,16,,,,0
+localidades.209,POINT (-68.80467441124962 -32.89654780644208),233,Nueva Ciudad,Nueva Ciudad,Guaymallén,5519,4,,,,752
+localidades.210,POINT (-68.75420027537712 -32.96862241638836),234,Coquimbito,Coquimbito,Maipú,5513,13,,,,1800
+localidades.211,POINT (-68.71998074576736 -33.09518122879082),165,Barrancas (Mpu),Barrancas,Maipú,5517,31,,,,1200
+localidades.212,POINT (-68.80036272314298 -33.02680269410725),236,Cruz de Piedra,Cruz de Piedra,Maipú,5517,21,,575,775,822
+localidades.213,POINT (-68.82006975566281 -33.04504886068132),237,Lunlunta,Lunlunta,Maipú,5517,22,,,,1500
+localidades.214,POINT (-68.77688387454567 -33.01646680127219),238,Russell,Russel,Maipú,5517,21,,709,1983,2102
+localidades.215,POINT (-68.79622668340504 -32.94820368322915),239,Luzuriaga,Luzuriaga,Maipú,5513,8,,,,2530
+localidades.216,POINT (-68.78669978699247 -32.95728790619664),226,General Gutierrez,General Gutierrez,Maipú,5511,10,,,,0
+localidades.217,POINT (-68.71031842532275 -32.97089730865175),225,General Ortega,General Ortega,Maipú,5517,16,,,,0
+localidades.218,POINT (-68.40786239164068 -33.27232282330191),224,Los Campamentos,Los Campamentos,Rivadavia,5577,74,,1002,1057,1120
+localidades.219,POINT (-68.43085617763539 -33.178796460433674),223,Mundo Nuevo (R),Mundo Nuevo (R),Rivadavia,5579,56,,317,278,295
+localidades.220,POINT (-68.53355523084772 -33.18618729405133),221,Andrade,Andrade,Rivadavia,5575,56,,,196,208
+localidades.221,POINT (-69.67846192537694 -34.179489792951074),160,Pampa de la Laguna,Pareditas,San Carlos,5569,212,,,,0
+localidades.222,POINT (-69.04075672495446 -33.80446833618241),141,Casas Viejas,Ciudad de San Carlos,San Carlos,5569,107,,,,0
+localidades.223,POINT (-69.03884941008336 -33.556559253160884),116,El Topón,El Totoral,Tunuyán,5560,81,,,,0
+localidades.224,POINT (-69.04255777563814 -33.56475926316877),108,El Totoral,El Totoral,Tunuyán,5560,82,,,,0
+localidades.225,POINT (-69.11171387660069 -33.574733115187236),62,Las Pintadas,Las Pintadas,Tunuyán,5560,90,,,,0
+localidades.226,POINT (-68.38505372450437 -33.0703983679079),46,El Espino,El Espino,San Martín,5571,53,,,,0
+localidades.227,POINT (-68.31540152988396 -33.11298833343668),41,El Ramblón,El Ramblón,San Martín,5582,60,,,,0
+localidades.228,POINT (-68.32932411924814 -32.8869926382445),35,El Divisadero,El Divisadero,San Martín,5589,54,,,,0
+localidades.229,POINT (-68.40531491832198 -32.85182127527642),16,El Central,El Central,San Martín,5589,47,,,,0
+localidades.230,POINT (-68.83598831113167 -32.85322600011942),220,Ciudad de Las Heras,Ciudad de Las Heras,Las Heras,5539,5,,145680,169248,179403
+localidades.231,POINT (-68.84952844841197 -32.8484711154765),219,La Cienaguita,La Cienaguita,Las Heras,5594,5,,,,0
+localidades.232,POINT (-68.8219610996821 -32.82691305626482),131,El Resguardo,El Resguardo,Las Heras,5543,8,,,,0
+localidades.233,POINT (-68.80288789250942 -32.85152867711284),112,El Plumerillo,El Plumerillo,Las Heras,5541,6,,,,0
+localidades.234,POINT (-68.81370236053995 -32.86046620158596),113,El Zapallar,El Zapallar,Las Heras,5541,5,,,,0
+localidades.235,POINT (-68.77832551638663 -32.847361631543464),63,El Algarrobal,El Algarrobal,Las Heras,5541,8,,,,0
+localidades.236,POINT (-68.89583264123819 -32.86652247189129),241,El Challao,El Challao,Las Heras,5539,6,,,,850
+localidades.237,POINT (-68.83263509081733 -32.83718101333967),243,Panqueua,Panqueua,Las Heras,5539,6,,,,0
+localidades.238,POINT (-68.82599382004528 -32.80439824074206),242,Capdeville,Capdeville,Las Heras,5543,10,,,46,52
+localidades.239,POINT (-68.70779548178615 -32.76927146612129),244,El Pastal,El Pastal,Las Heras,5541,21,,,,350
+localidades.240,POINT (-68.44963606578536 -32.71976818236635),245,El Plumero,El Plumero,Lavalle,5535,46,,,,0
+localidades.241,POINT (-68.53989383760603 -32.70633600306983),246,Colonia Palmera,La Palmera,Lavalle,5533,39,,,90,95
+localidades.242,POINT (-68.39300211543245 -32.71151981058328),247,Colonia El Cármen,El Cármen,Lavalle,5535,52,,,,0
+localidades.243,POINT (-68.52826100312411 -36.6314282991146),248,Agua del Toro (M),Agua Escondida,Malargüe,5611,505,,,,75
+localidades.244,POINT (-69.58797846236163 -35.366393570821536),262,El Chacay,Ciudad de Malargüe,Malargüe,5613,424,,,,0
+localidades.245,POINT (-68.67174260984814 -32.58736321725909),267,Jocolí (LH),Capdevila,Las Heras,5543,42,,,414,439
+localidades.246,POINT (-68.53762915971231 -32.779905164366546),121,El Paramillo,Paramillo,Lavalle,5533,35,,,77,82
+localidades.247,POINT (-68.61139021030641 -32.784855905817544),153,El Vergel,El Vergel,Lavalle,5533,29,,,229,243
+localidades.248,POINT (-68.78999690560369 -32.90283666247055),152,Ciudad de Guaymallén,Villa Nueva,Guaymallén,5521,6,,200447,223365,236767
+localidades.249,POINT (-68.47981880995668 -33.0959048297099),266,La Colonia (S),Ciudad de San Martín,San Martín,5570,42,,71530,79662,84442
+localidades.250,POINT (-68.42786189524763 -33.27641245312682),265,La Florida,Los Campamentos,Rivadavia,5579,73,,1097,1622,1719
+localidades.251,POINT (-68.60675461148666 -32.83136189899921),264,Las Violetas,Las Violetas,Lavalle,5533,26,,,69,73
+localidades.252,POINT (-67.6399202386226 -34.96458111601074),263,Los Compartos,Ciudad de General Alvear,General Alvear,5621,278,,,401,425
+localidades.253,POINT (-68.64189057191327 -34.59873727463306),261,Los Reyunos,Cuadro Benegas,San Rafael,5615,237,,,10,11
+localidades.254,POINT (-68.66620185934342 -32.862355024992674),260,Puente de Hierro,Puente de Hierro,Guaymallén,5527,23,,2992,6290,6667
+localidades.255,POINT (-68.69937710132591 -32.98132291545681),259,El Pedregal,Rodeo del Medio,Maipú,5529,19,,,215,228
+localidades.256,POINT (-68.92428475677764 -33.07756913222094),258,Costa Flores,Perdriel,Luján,5509,26,,,418,443
+localidades.257,POINT (-68.89130463912882 -32.86003948120172),257,Papagayos,El Challao,Las Heras,5549,6,,,26,28
+localidades.258,POINT (-68.32788605392938 -33.32466884101408),256,La Esperanza,El Mirador,Rivadavia,5579,85,,210,227,241
+localidades.259,POINT (-68.70879560864104 -33.043802298818534),255,Villa Seca,Fray Luis Beltrán,Maipú,5517,28,,,237,251
+localidades.260,POINT (-68.4747334774605 -33.23121589684691),254,Barrio Rivadavia,Los Campamentos,Rivadavia,5577,65,,495,433,459
+localidades.261,POINT (-68.40250432007247 -33.28760871917282),253,Barrio Cooperativa Los Campamentos,Los Campamentos,Rivadavia,5577,76,,,268,284
+localidades.262,POINT (-69.12450246127932 -33.843087448821386),252,Barrio El Cepillo,Chilecito,San Carlos,5569,118,,,98,104
+localidades.263,POINT (-68.90456083774387 -33.08278496215674),251,Barrio Perdriel IV,Perdriel,Luján,5509,26,,,339,359
+localidades.264,POINT (-68.28172747713384 -34.6992023855353),250,El Tropezón,Cañada Seca,San Rafael,5603,243,,330,355,376
+localidades.265,POINT (-68.24914632798377 -33.18515421524945),249,Barrio 12 de Octubre,12 de Octubre,Santa Rosa,5596,69,,,224,237
+localidades.266,POINT (-67.68998464215831 -35.00642657481123),0,El Desvio,Ciudad de Gral Alvear,General Alvear,5620,280,,,,0
+localidades.267,POINT (-68.68997899973485 -32.862328354633135),0,Colonia Molina,Colonia Segovia,Guaymallén,5525,15,,,,0
+localidades.268,POINT (-67.48782982889327 -32.47103493648661),0,Lagunita,San Miguel,Lavalle,5537,199,,,,0
+localidades.269,POINT (-68.64730550652125 -32.952572154674286),0,Colonia Bombal,Rodeo del Medio,Maipú,0,0,,,,0
+localidades.270,POINT (-69.08321104463803 -34.96849303907315),0,Campo los italianos,El Nihuil,San Rafael,0,0,,,,0
+localidades.271,POINT (-68.88518400573349 -34.88657107103176),0,Las Salinas,Cuadro Benegas,San Rafael,0,0,,,,0
+localidades.272,POINT (-69.59110172174799 -35.21281799164937),0,Coihueco Norte,Malargue,Malargue,0,0,,,,0
+localidades.273,POINT (-69.7909293271666 -36.15400799232434),0,Coihueco Sur,Rio Grande,Malargue,0,0,,,,0
+localidades.274,POINT (-68.68634510570352 -32.69815192622204),0,La Polvosa,Cavdevila,Las Heras,0,0,,,,0
+localidades.275,POINT (-69.45060141253487 -35.263770229385564),0,La Junta,Malargue,Malargue,0,0,,,,0
+localidades.276,POINT (-68.1938999637964 -34.518046713511616),0,Colonia La Española,Cuadro Nacional,San Rafael,5607,241,,,,0
+localidades.277,POINT (-69.19854176820482 -32.96375439772972),0,Nueva Villa Potrerillos,Potrerillos,Luján,0,0,,,,0
+localidades.278,POINT (-68.88912901677371 -35.108527452402356),0,Trintica,El Nihuil,San Rafael,0,0,,,,0
+localidades.279,POINT (-67.83183325473362 -34.678346763355556),0,Colonia Ganadera,Monte Comán,San Rafael,0,0,,,,0
+localidades.280,POINT (-69.80285809744917 -36.03223796079489),0,Chalahuen,Rio Grande,Malargue,0,0,,,,0
+localidades.281,POINT (-69.75659132564738 -36.183423239413095),0,Butarevon,Rio Grande,Malargue,0,0,,,,0
+localidades.282,POINT (-69.85649809467947 -36.1087250964955),0,Sierra Azul,Rio Grande,Malargue,0,0,,,,0
+localidades.283,POINT (-69.683634460352 -36.25606085168623),0,Pasarela,Rio Grande,Malargue,0,0,,,,0
+localidades.284,POINT (-69.86374535727315 -36.175387614506526),0,Mechenquil,Rio Grande,Malargue,0,0,,,,0
+localidades.285,POINT (-70.04580197610207 -36.249922775675024),0,Sierra Mayan,Rio Grande,Malargue,0,0,,,,0
+localidades.286,POINT (-69.66084826103072 -36.18963280241454),0,Campo Las Chacras,Rio Grande,Malargue,0,0,,,,0
+localidades.287,POINT (-70.22993035050182 -35.56832445207079),0,Potreros de la Cordillera,Rio Grande,Malargue,0,0,,,,0
+localidades.288,POINT (-69.51936871319018 -35.48309713925834),0,Cañada Colorada II,Malargue,Malargue,0,0,,,,0
+localidades.289,POINT (-69.67607017104541 -35.48439027253532),0,Cañada Colorada,Malargue,Malargue,0,0,,,,0
+localidades.290,POINT (-69.59840858283552 -35.502857951085645),0,Colonia Pehuenche,Malargue,Malargue,0,0,,,,0
+localidades.291,POINT (-69.28783116529587 -35.272716977471966),0,Loma Negra,Malargue,Malargue,0,0,,,340,25
+localidades.292,POINT (-69.71289805832825 -35.96638606114372),0,Reserva El Carrizalito,Rio Grande,Malargue,0,0,,,120,45
+localidades.293,POINT (-69.54582641846514 -35.481245438143105),0,Colonia  Forestal Forrajera,Malargue,Malargue,0,0,,,200,120
+localidades.294,POINT (-68.29412119188679 -33.23330855692568),0,Colonia Los Otoyanes,Philips-La Central-12 de octub,Junin,0,0,,,78,250
+localidades.295,POINT (-68.09919577860518 -33.262230755454944),0,Asociacion ASOR,Santa Rosa,Santa Rosa,0,0,,,60,23
+localidades.296,POINT (-69.21383978596909 -32.95950785716283),296,Avda de los Cóndores,Potrerillos,Luján,0,0,,,150,150
+localidades.297,POINT (-69.28766022697073 -33.00851351465194),297,El Llano,Potrerillos,Luján,0,0,,,150,110
+localidades.298,POINT (-68.61265209888643 -32.88826564147561),0,El Vivoron,,Maipu,0,0,,,,0
+localidades.299,POINT (-69.74918477815567 -35.51943603640455),0,Estancia Las Vegas,Ciudad de Malargue,Malargue,0,0,,,,0
+localidades.300,POINT (-69.18689610552065 -35.77285262167842),0,Carapacho,,Malargue,0,0,,,,0
+localidades.301,POINT (-68.30884498557353 -36.0007265919709),0,Butaco,Agua Escondita,Malargue,0,0,,,,0
+localidades.302,POINT (-69.78175814071412 -36.43836897231816),0,Puntilla de Huincan,Río Barrancas,Malargue,0,0,,,,0
+localidades.303,POINT (-68.18330647493117 -32.91669107862115),0,La Pichana,Montecaseros,San Martin,0,0,,,,0
+localidades.304,POINT (-69.34537173361745 -32.51888395231154),0,Los Tombillos,Uspallata,Las Heras,0,0,,,,0
+localidades.305,POINT (-68.10912605668165 -33.25402672615904),0,Colonia Las Trincheras,Villa Santa Rosa,Santa Rosa,0,0,,,,0
